@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<header>
+<img width="45" height="45" src="/home/quirky/Desktop/niBBpyXiA.jpeg">
+<img width="45" height="45" src="/home/quirky/Desktop/120606094003-twitter-logo-change-horizontal-large-gallery.jpg">
+<img width="45" height="45" src="/home/quirky/Desktop/YouTubeLogo.png">
+</header>
+<body>
+<h1>TORRI X</h1>
+<h2>DungeonRap! #Keep-The-Hustle-UP</h2>
+
+
+</body>
+<style type="text/css">
+body{
+	background-color: white;
+}
+body{
+	background: url("/home/quirky/Pictures/giphfy.gif");
+}
+header{
+    text-align: center;
+}
+
+header {
+text-align: right;
+
+}
+</style>
+
+<a href="about torri X.html">About</a>
+<a href="contactinfo.html">Contact</a>
+<a href="gallary.html">Gallary</a>
+<a href="home.html">Home</a>
+<a href="event.html">Events</a>
+
+<img width="1200" height="450" src="/home/quirky/Desktop/music sound.jpg">
+</html>
